@@ -9,6 +9,7 @@ Before feeding the data into the machine learning models, we performed preproces
 
 Algorithms Used:
 Four different machine learning algorithms were used for sentiment analysis:
+
 Support Vector Machine (SVM): Achieved an accuracy of 87.49%.
 
 Naive Bayes: Achieved an accuracy of 85.08%.
